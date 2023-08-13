@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body{
+    background-color: white;
+    color: white;
+    margin: 0 auto;
+}
+
+header{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+

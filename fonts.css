@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'AvertaDemoPE-Regular';
+    src: url('fontes/AvertaDemoPE-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'AvertaDemoPE-Extrabolditalic';
+    src: url('fontes/AvertaDemoPE-ExtraboldItalic.otf') format('opentype');
+}
