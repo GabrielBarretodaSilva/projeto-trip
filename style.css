@@ -1,37 +1,19 @@
 @charset "utf-8";
 
 body{
-    background-color: white;
-    color: rgb(0, 0, 0);
+    font-family: 'AvertaDemoPE-Regular';
     margin: 0 auto;
+    overflow: hidden;
+    max-width: 1200px;
+    padding: 15px;
 }
 
 header{
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
-    align-items: center;
-    padding-block: 1.5rem;
 }
 
-.logo {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-  }
-
-nav ul {
-    display: flex;
-    gap: 1rem;
-  }
-
-li {
-    display: inline-block; 
+li{
+    display: inline-block;
 }
-
-
-
-img{
-    width: 100px;
-}
-
-
